@@ -1,6 +1,6 @@
 
 
-https://github.com/user-attachments/assets/668f1cfa-f7da-4178-b7ec-b2d85bd19d68
+
 
 # *PetImageRecognition-CoreML* 🐾
 PetImageRecognition is an app that uses CoreML to identify types of pets (e.g., dogs or cats) in images. It’s a fun, educational tool that demonstrates the potential of machine learning in distinguishing between various animal types.
@@ -29,3 +29,4 @@ Take a picture of a pet and see the app’s classification results.
 
 PetImageRecognition-CoreML is an engaging project that combines CoreML with mobile app development. It demonstrates the capabilities of machine learning models to classify animals, making it a fun and informative tool for pet enthusiasts and developers interested in CoreML.
 
+https://github.com/user-attachments/assets/668f1cfa-f7da-4178-b7ec-b2d85bd19d68
